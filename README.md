@@ -6,7 +6,7 @@ DS Nome do Aluno
 
 Técnico em Desenvolvimento de Sistemas — 1º ano
 
-# Nome do Aluno
+# VITOR CAUÃ ALMEIDA MOURA 
 
 Estudante do 1º ano na Etec Vasco Antônio Venchiarutti, aprendendo lógica de programação, banco de dados e desenvolvimento web para transformar problemas do dia a dia em sistemas simples e funcionais.
 
@@ -128,6 +128,6 @@ PythonLógica
 
 Estou aberto a oportunidades de estágio, projetos em equipe e trocas de conhecimento com quem também está aprendendo a programar.
 
-[emailseuemail@exemplo.com](mailto:seuemail@exemplo.com) [linkedinlinkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) [githubgithub.com/seu-usuario](https://github.com/seu-usuario) [whatsapp(11) 99999-9999](https://wa.me/5511999999999)
+[mouracristiano720@gmail.com](mouracristiano720@gmail.com) [githubgithub.com/Vitor6766789](https://github.com/Vitor6766789)
 
-© 2026 Nome do Aluno · Etec Vasco Antônio Venchiarutti — Desenvolvimento de Sistemas
+© 2026 VITOR CAUÃ ALMEIDA MOURA · Etec Vasco Antônio Venchiarutti — Desenvolvimento de Sistemas
