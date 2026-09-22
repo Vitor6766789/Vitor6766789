@@ -3,6 +3,8 @@
 **Técnico em Desenvolvimento de Sistemas — 1º ano**
 Etec Vasco Antônio Venchiarutti
 
+![Programação](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJqbGp3ZnFwcGltd3ZjbG1ma3hmYjFteHFrOHVhNDAxa3M4Znl1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif)
+
 ---
 
 ## Sobre mim
